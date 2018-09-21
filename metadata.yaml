@@ -1,0 +1,30 @@
+_repo: This-Misery-of-Boots_53516
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2016-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53516'
+  lccn: 09031050
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcc 'HX'
+- GITenberg
+tableOfContents: The world as boots and superstructure -- People whose boots don't
+  hurt them -- At this point a dispute arises -- Is socialism possible? -- Socialism
+  means revolution.
+title: This Misery of Boots
+url: http://www.gutenberg.org/ebooks/53516
